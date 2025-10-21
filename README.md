@@ -1,4 +1,4 @@
-## 🚀 About Me
+# 🚀 About Me
 
 Hey there! I'm **Maroof**, a curious and passionate **Python Developer** who loves creating things that actually make an impact.
 From **Machine Learning models** that predict real-world outcomes to **FastAPI & Django** backends that power smooth, efficient systems — I enjoy bringing ideas to life through code.
