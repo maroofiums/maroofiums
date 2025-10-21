@@ -17,7 +17,7 @@ Outside of coding, I love exploring **Urdu philosophy**, learning how ideas shap
 Always learning. Always building. Always improving.
 Because for me, **code is not just logic — it’s creativity in action.**
 
-
+## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maroofiums)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maroofiums)
