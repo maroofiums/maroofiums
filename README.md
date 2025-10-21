@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔹 Passionate about building intelligent and scalable backend systems.<br><br>🔹 Currently exploring Generative AI, FastAPI, and Django REST Framework.<br><br>🔹 Strong foundation in Machine Learning algorithms like Logistic Regression, SVM, and CNNs.<br><br>🔹 Love working on real-world data projects — from stress prediction to smart automation.<br><br>🔹 Always curious, always learning!
+## 🚀 About Me
+
+Hey there! I'm **Maroof**, a curious and passionate **Python Developer** who loves creating things that actually make an impact.
+From **Machine Learning models** that predict real-world outcomes to **FastAPI & Django** backends that power smooth, efficient systems — I enjoy bringing ideas to life through code.
+
+I started my journey by exploring how machines learn and think, and that curiosity led me into the world of **AI**, **data**, and **backend development**.
+Along the way, I’ve worked on everything from **classification models** and **CNNs** to **automation scripts** and **Arduino-based IoT projects**.
+
+Right now, I’m diving deeper into:
+
+* 🧠 **Natural Language Processing (NLP)** and **Generative AI**
+* ⚙️ Building scalable **APIs** with **FastAPI** and **Django REST Framework**
+* 🧩 Making my projects more **interactive, automated, and smarter**
+
+Outside of coding, I love exploring **Urdu philosophy**, learning how ideas shape the world, and applying that same curiosity to how I build systems and solve problems.
+
+Always learning. Always building. Always improving.
+Because for me, **code is not just logic — it’s creativity in action.**
+
 
 
 ## 🌐 Socials:
