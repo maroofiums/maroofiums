@@ -1,20 +1,4 @@
-## 🚀 About Me 
- 
-Hey there! I'm **Maroof**, a curious and passionate **Python Developer** who loves creating things that actually make an impact.
-From **Machine Learning models** that predict real-world outcomes to **FastAPI & Django** backends that power smooth, efficient systems — I enjoy bringing ideas to life through code.
-I started my journey by exploring how machines learn and think, and that curiosity led me into the world of **AI**, **data**, and **backend development**.
-Along the way, I’ve worked on everything from **classification models** and **CNNs** to **automation scripts** and **Arduino-based IoT projects**.
-
-Right now, I’m diving deeper into:
-
-* 🧠 **Natural Language Processing (NLP)** and **Generative AI**
-* ⚙️ Building scalable **APIs** with **FastAPI** and **Django REST Framework**
-* 🧩 Making my projects more **interactive, automated, and smarter**
-
-Outside of coding, I love exploring **Urdu philosophy**, learning how ideas shape the world, and applying that same curiosity to how I build systems and solve problems.
-
-Always learning. Always building. Always improving.
-Because for me, **code is not just logic — it’s creativity in action.**
+# 👋 Hi, I’m Maroof<br><br>I’m a Python developer passionate about building efficient and scalable backend systems and exploring the world of Machine Learning & AI. Currently, I’m working on an API framework with a built-in ORM, aiming to make backend development faster, cleaner, and more intuitive.<br><br>💻 What I Do<br><br>● **Backend Development**: FastAPI, Django REST Framework, building secure and scalable APIs.<br><br>● **Machine Learning & AI**: Creating practical ML projects with scikit-learn, pandas, NumPy, and exploring advanced AI concepts.<br><br>● **Problem Solving**: Actively solving algorithm and data structure challenges to sharpen coding skills.<br><br>● **Framework Design**: Building tools and frameworks to simplify developer workflow and accelerate project development.<br><br>🚀 Current Focus<br><br>● Developing my own Python API framework with built-in ORM.<br><br>● Experimenting with ML/AI integration into backend projects.<br><br>● Contributing to open-source projects to give back to the community.
 
 ## 🌐 Socials:
 
