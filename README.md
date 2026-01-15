@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Maroof
-<br><br>I’m a Python developer passionate about building efficient and scalable backend systems and exploring the world of Machine Learning & AI. Currently, I’m working on an API framework with a built-in ORM, aiming to make backend development faster, cleaner, and more intuitive.<br><br>💻 What I Do<br><br>● **Backend Development**: FastAPI, Django REST Framework, building secure and scalable APIs.<br><br>● **Machine Learning & AI**: Creating practical ML projects with scikit-learn, pandas, NumPy, and exploring advanced AI concepts.<br><br>● **Problem Solving**: Actively solving algorithm and data structure challenges to sharpen coding skills.<br><br>● **Framework Design**: Building tools and frameworks to simplify developer workflow and accelerate project development.<br><br>🚀 Current Focus<br><br>● Developing my own Python API framework with built-in ORM.<br><br>● Experimenting with ML/AI integration into backend projects.<br><br>● Contributing to open-source projects to give back to the community.
+<br><br>I’m a Python developer passionate about building efficient and scalable backend systems and exploring the world of Machine Learning & AI. Currently, I’m working on an API framework with a built-in ORM, aiming to make backend development faster, cleaner, and more intuitive.<br><br>
+## 💻 What I Do
+<br><br>● **Backend Development**: FastAPI, Django REST Framework, building secure and scalable APIs.<br><br>● **Machine Learning & AI**: Creating practical ML projects with scikit-learn, pandas, NumPy, and exploring advanced AI concepts.<br><br>● **Problem Solving**: Actively solving algorithm and data structure challenges to sharpen coding skills.<br><br>● **Framework Design**: Building tools and frameworks to simplify developer workflow and accelerate project development.<br><br>
+## 🚀 Current Focus
+<br><br>● Developing my own Python API framework with built-in ORM.<br><br>● Experimenting with ML/AI integration into backend projects.<br><br>● Contributing to open-source projects to give back to the community.
 
 ## 🌐 Socials:
 
