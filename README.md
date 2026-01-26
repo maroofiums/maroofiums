@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Maroof
-<br><br>I’m a Python developer passionate about building efficient and scalable backend systems and exploring the world of Machine Learning & AI. Currently, I’m working on an API framework with a built-in ORM, aiming to make backend development faster, cleaner, and more intuitive.<br><br>
+<br>I’m a Python developer passionate about building efficient and scalable backend systems and exploring the world of Machine Learning & AI. Currently, I’m working on an API framework with a built-in ORM, aiming to make backend development faster, cleaner, and more intuitive.<br><br>
 ## 💻 What I Do
 ● **Backend Development**: FastAPI, Django REST Framework, building secure and scalable APIs.<br><br>● **Machine Learning & AI**: Creating practical ML projects with scikit-learn, pandas, NumPy, and exploring advanced AI concepts.<br><br>● **Problem Solving**: Actively solving algorithm and data structure challenges to sharpen coding skills.<br><br>● **Framework Design**: Building tools and frameworks to simplify developer workflow and accelerate project development.<br><br>
 ## 🚀 Current Focus
