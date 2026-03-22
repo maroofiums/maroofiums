@@ -55,13 +55,27 @@ I'm a second-year student passionate about AI/ML and backend development. I'm bu
 
 ### GitHub Stats
 
-<a href="https://github.com/maroofiums"><img src="https://github-readme-stats.vercel.app/api?username=maroofiums&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Maroof's GitHub Stats" /></a>
-
-<a href="https://github.com/maroofiums"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maroofiums&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Maroof's GitHub Streak" /></a>
-
-<a href="https://github.com/maroofiums">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maroofiums&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/maroofiums">
+        <img src="https://github-readme-stats.vercel.app/api?username=maroofiums&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Maroof's GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/maroofiums">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=maroofiums&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Maroof's GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/maroofiums">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maroofiums&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Top Repositories
 
