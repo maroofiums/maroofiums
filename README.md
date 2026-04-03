@@ -17,9 +17,8 @@
 I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passionate about building real-world systems at the intersection of **machine learning**, **generative AI**, and **production backend development**. I'm currently executing a structured 53-week self-study roadmap targeting ML Engineering and eventually ML Research.
 
 - 🎓 **Studying** Software Engineering at MITI (expected graduation: Oct 2026)
-- 🔭 **Currently building** [Velox](https://github.com/maroofiums/velox) — and progressing through my ML roadmap
+- 🔭 **Currently building** [Velox](https://github.com/maroofiums/velox) and progressing through my ML roadmap
 - 🧠 **Currently learning** Computer Vision, DSA, MLOps, and Reinforcement Learning
-- 📜 **Certified** — Machine Learning Internship @ Elevvo (March 2026)
 - 🌍 **Based in** Karachi, Pakistan
 - 💬 **Ask me about** building AI pipelines, RAG systems, and scalable FastAPI backends
 - 📫 **Reach me at** [maroof96965@gmail.com](mailto:maroof96965@gmail.com)
@@ -33,7 +32,6 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" width="100%" />
 
 ---
 
@@ -92,7 +90,10 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 
 ## 🛠️ Languages & Tools
 
-### Programming Languages
+
+
+## 💻 Programming Languages
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
@@ -100,7 +101,10 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48"/>
 </p>
 
-### Frontend
+---
+
+## 🎨 Frontend
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/>
@@ -108,13 +112,61 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48"/>
 </p>
 
-### Backend
+---
+
+## ⚙️ Backend
+
 <p align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48"/>
 <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="80"/>
+
+<!-- FastAPI FIXED -->
+
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="70"/>
 </p>
 
-### Database
+---
+
+## 📊 Data Science & ML
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
+
+<!-- Matplotlib FIXED -->
+
+<img src="https://matplotlib.org/_static/logo_dark.svg" width="55"/>
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
+
+<!-- XGBoost -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="48"/>
+</p>
+
+---
+
+## 🤖 Deep Learning / AI
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48"/>
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48"/>
+</p>
+
+---
+
+## 📈 BI / Analytics
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="48"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/>
@@ -122,7 +174,10 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48"/>
 </p>
 
-### DevOps & Cloud
+---
+
+## ☁️ DevOps & Cloud
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48"/>
@@ -130,20 +185,15 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48"/>
 </p>
 
-### Tools
+---
+
+## 🧰 Tools
+
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
 <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="48"/>
-</p>
-
----
-
-## 📊 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maroofiums&langs_count=8&layout=compact&theme=radical&border_radius=10"/>
 </p>
 
 ---
