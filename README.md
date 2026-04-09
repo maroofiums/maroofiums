@@ -92,7 +92,7 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 
 
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
@@ -103,7 +103,7 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 
 ---
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/>
@@ -114,7 +114,7 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 
 ---
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48"/>
@@ -127,7 +127,7 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 
 ---
 
-## 📊 Data Science & ML
+### 📊 Data Science & ML
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
@@ -147,7 +147,7 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 
 ---
 
-## 🤖 Deep Learning / AI
+### 🤖 Deep Learning / AI
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48"/>
@@ -156,7 +156,7 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 
 ---
 
-## 📈 BI / Analytics
+### 📈 BI / Analytics
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48"/>
@@ -165,7 +165,7 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/>
@@ -176,7 +176,7 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 
 ---
 
-## ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
@@ -187,7 +187,7 @@ I'm a **second-year Computer Science student** at MITI (Karachi, Pakistan) passi
 
 ---
 
-## 🧰 Tools
+### 🧰 Tools
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48"/>
