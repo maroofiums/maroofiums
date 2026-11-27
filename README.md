@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=350&section=header&text=M.%20Maroof&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=AI%2FML%20Engineer%20%7C%20Backend%20Developer&descAlignY=65&descSize=28&animation=fadeIn" />
-
+ 
 </div>
 
 <div align="center">
